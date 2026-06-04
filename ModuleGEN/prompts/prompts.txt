@@ -1,0 +1,57 @@
+PROMPT 1
+
+Context:
+I am working with a huge sales table in Databricks.
+
+Role:
+Act as a senior data engineer.
+
+Task:
+Optimize SQL query performance.
+
+Constraints:
+- Focus only on performance
+- Use distributed computing concepts
+
+Format:
+Return optimized SQL query with explanation.
+
+
+
+PROMPT 2
+
+Context:
+Customer data contains duplicate and null values.
+
+Role:
+Act as data quality expert.
+
+Task:
+Suggest validation checks.
+
+Constraints:
+- Focus on duplicate handling
+- Keep answer concise
+
+Format:
+Bullet points.
+
+
+
+PROMPT 3
+
+Context:
+I am building Azure Data Factory pipeline.
+
+Role:
+Act as cloud architect.
+
+Task:
+Design ingestion workflow.
+
+Constraints:
+- Include monitoring
+- Use Bronze Silver Gold architecture
+
+Format:
+Step-by-step workflow.
