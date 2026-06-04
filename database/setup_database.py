@@ -4,7 +4,7 @@ import sqlite3
 connection = sqlite3.connect("sales_database.db")
 
 
-cursor = connection.cursor()
+cursor = connection.cursor() # used to run SQL commands
 
 
 # CREATE CUSTOMER TABLE
